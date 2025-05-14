@@ -55,4 +55,4 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo&Color=white)](https://linkedin.com/in/aarush-bezalwar) 
-[![Website](https://img.shields.io/badge/Website-black?logoColor=white)](https://www.aarushbezi.dev/)
+[![Website](https://img.shields.io/badge/Website-grey?logoColor=white)](https://www.aarushbezi.dev/)
