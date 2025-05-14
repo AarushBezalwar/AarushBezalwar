@@ -1,7 +1,6 @@
 ## Hi there 👋 this is Aarush!
 
-
-[![](https://visitcount.itsvg.in/api?id=AarushBezalwar&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=AarushBezalwar)
 
 ## 💻 Skills:
 ### Languages
