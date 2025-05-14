@@ -48,7 +48,9 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ## 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=AarushBezalwar&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/> -->
-![](https://nirzak-streak-stats.vercel.app/?user=AarushBezalwar&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AarushBezalwar&theme=dark&hide_border=false" alt="GitHub streak stats"/><br/>
+</p>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AarushBezalwar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 
 
