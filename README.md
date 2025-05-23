@@ -1,4 +1,4 @@
-## Hi there 👋 this is Aarush! <img src="mario.gif" alt="Mario yay!"  style="vertical-align:middle;margin-bottom:0;" />
+## Hi there 👋 this is Aarush! <img src="mario.gif" alt="Mario yay!"  style="vertical-align:middle;margin-bottom:15;" />
 
 
 ![](https://komarev.com/ghpvc/?username=AarushBezalwar)
